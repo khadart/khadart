@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Khadar Thonduru</h1>
 <h3 align="center">Full Stack Developer</h3>
 
