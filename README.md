@@ -12,8 +12,8 @@
 - 🔭 Currently working on **end-to-end Full Stack Projects**
 - 🌱 Diving deeper into **Python, AI Integrations & Machine Learning**
 - 🤝 Always open to contributing to **Open Source and Dev Communities**
-- 💬 Ask me about anything **JavaScript, React, Node, or AI**
-- 🧳 Fun fact: I turn coffee into scalable code ☕🚀
+- 💬 Ask me about anything **JavaScript, React, Node**
+
 
 ---
 
