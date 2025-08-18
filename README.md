@@ -60,8 +60,11 @@
   <a href="https://x.com/home">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:khadarthonduru@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="tel:+917013903020">
+    <img src="https://img.shields.io/badge/-Call%20Me-25D366?style=flat&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
