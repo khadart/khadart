@@ -27,7 +27,7 @@
 
 #### 💻 Languages, Frameworks & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,react,redux,nodejs,express,bootstrap,mongodb,mysql,azure" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,react,redux,nodejs,express,bootstrap,mssql,neo4j" />
 </p>
 
 ---
