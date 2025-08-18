@@ -5,9 +5,12 @@
   🔨 Building scalable apps · 💬 Exploring AI integration · 🤝 Collaborating on open-source
 </p>
 
----  
+<p align="center">
+  <!-- Portfolio Link -->
+  [![Portfolio](https://img.shields.io/badge/-View%20Portfolio-yellow?style=flat&logo=github&logoColor=black)](https://khadart.github.io/portfolio-khadar)
+</p>
 
- 🚀 View My Portfolio(https://khadart.github.io/portfolio-khadar/)
+---
 
 ### 🧑‍💻 About Me
 
@@ -15,7 +18,6 @@
 - 🌱 Diving deeper into **Python, AI Integrations & Machine Learning**
 - 🤝 Always open to contributing to **Open Source and Dev Communities**
 - 💬 Ask me about anything **JavaScript, React, Node**
-
 
 ---
 
@@ -59,4 +61,3 @@
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
