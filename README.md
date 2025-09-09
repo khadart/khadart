@@ -42,12 +42,6 @@
 
 ---
 
-### ⚡ Fun Side Projects
-- 🎯 [Career Guidance AI Chatbot (OpenAI + DeepSeek)](https://github.com/khadart/ai-chatbot)  
-- 📚 [Learning Hub with Fullstack + AI backend](https://github.com/khadart/learning-hub)  
-- ✨ [Personal Portfolio Revamp](https://khadart.github.io/portfolio-khadar)  
-
----
 
 ### 📫 Let’s Connect  
 <p align="center">
